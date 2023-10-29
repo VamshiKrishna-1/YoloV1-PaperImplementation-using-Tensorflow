@@ -1,8 +1,7 @@
-# YOLOv1 Object Detection with TensorFlow
+# A Comprehensive Implementation YOLOv1 using TensorFlow from Scratch
 
 <p align="center">
   <b>🚀 Fast, Accurate, and Robust Object Detection 🚀</b><br>
-  <i>Implementing YOLOv1 from scratch using TensorFlow</i>
 </p>
 
 ## Dataset
