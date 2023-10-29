@@ -27,10 +27,7 @@ This project ambitiously implements YOLOv1, a revolutionary real-time object det
 YOLOv1’s potential is tapped into with a tailor-made architecture, optimized for a balance between speed and accuracy, and tested against a variety of use-cases. With extensive data augmentation and IoU metric, we ensure robust performance and reliable bounding box predictions.
 
 ## Getting Started
-Jump into the INSTALL.md for a guided setup. Once you’re all set, train.py kicks off your training adventure, and evaluate.py lets you see how well you did.
-
-## Usage Examples
-Peek into demo.py for a practical magic show - watch as images and videos transform with real-time object detection.
+Dependencies - Tensorflow - 2.1, numpy, os, pandas, Open-cv, matplotlib, PIL
 
 ## Contributions
 Find a bug? Got an improvement? Contributions are welcome! Fork, clone, branch, commit, push, and pull request.
