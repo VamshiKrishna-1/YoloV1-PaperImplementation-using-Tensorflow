@@ -6,31 +6,13 @@ YOLOv1 Object Detection with TensorFlow
   <b>🚀 Fast, Accurate, and Robust Object Detection 🚀</b><br>
   <i>Implementing YOLOv1 from scratch using TensorFlow</i>
 </p>
-<p align="center">
-  <a href="https://GitHub.com/yourusername/your-repo-name/stargazers/">
-    <img src="https://img.shields.io/github/stars/yourusername/your-repo-name.svg?style=social&label=Star" alt="GitHub stars">
-  </a>
-  <a href="https://GitHub.com/yourusername/your-repo-name/network/">
-    <img src="https://img.shields.io/github/forks/yourusername/your-repo-name.svg?style=social&label=Fork" alt="GitHub forks">
-  </a>
-  <a href="https://GitHub.com/yourusername/your-repo-name/watchers/">
-    <img src="https://img.shields.io/github/watchers/yourusername/your-repo-name.svg?style=social&label=Watch" alt="GitHub watchers">
-  </a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername.svg?style=social&label=Follow" alt="GitHub followers">
-  </a>
-</p>
-<p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#project-structure">Project Structure</a> •
-  <a href="#implementation-details">Implementation Details</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#usage-examples">Usage Examples</a> •
-  <a href="#contributions">Contributions</a> •
-  <a href="#license">License</a> •
-  <a href="#contact">Contact</a>
-</p>
+<div align="center">
+GitHub stars
+GitHub forks
+GitHub watchers
+GitHub followers
+
+</div>
 Overview
 This project ambitiously implements YOLOv1, a revolutionary real-time object detection algorithm, using TensorFlow from scratch. The main goal is to understand and replicate the performance of YOLOv1, making it accessible and easy to use for real-world applications.
 
