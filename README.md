@@ -13,7 +13,7 @@ GitHub watchers
 GitHub followers
 
 </div>
-Overview
+## Overview
 This project ambitiously implements YOLOv1, a revolutionary real-time object detection algorithm, using TensorFlow from scratch. The main goal is to understand and replicate the performance of YOLOv1, making it accessible and easy to use for real-world applications.
 
 Key Features
